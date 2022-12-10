@@ -318,7 +318,7 @@ Log.d("present","ajdfasj");
 
             session = Session.getDefaultInstance(props, new javax.mail.Authenticator() {
                 protected javax.mail.PasswordAuthentication getPasswordAuthentication() {
-                    return new PasswordAuthentication("20ucs129@lnmiit.ac.in","college+-*/@123" );
+                    return new PasswordAuthentication("20ucs129@lnmiit.ac.in","**************" );
 
                 }
             });
