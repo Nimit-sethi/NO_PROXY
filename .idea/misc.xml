@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_add_student.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_attendance_summary.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_calendar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main3.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main4.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main_page.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_student_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_student_sign_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_teacher_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_teacher_sign_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/DeLL/Downloads/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_timer_broadcast.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/drawable/cut_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/drawable/round.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/activity_calendar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/activity_main2.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/activity_main4.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/default_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/holiday_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/gauta/AndroidStudioProjects/StudentPage/app/src/main/res/layout/unavailable_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/drawable/cut_round.xml" value="0.1985" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.1985" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.1985" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/drawable/round.xml" value="0.1985" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_add_student.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_attendance_summary.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_calendar.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main2.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main3.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main4.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_main_page.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_maps.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_student_profile.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_teacher_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_timer.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/activity_timer_broadcast.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/holiday_view.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE-master/app/src/main/res/layout/unavailable_view.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.1" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout-v23/activity_splash_screen.xml" value="0.21875" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_add_student.xml" value="0.264" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_attendance_summary.xml" value="0.264" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_calendar.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_main.xml" value="0.19655797101449277" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_main4.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_main_page.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_maps.xml" value="0.21784420289855072" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_second.xml" value="0.2" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_splash_screen.xml" value="0.21875" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_student_profile.xml" value="0.21875" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_student_sign_in.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_teacher_main.xml" value="0.264" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_teacher_page.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_teacher_sign_in.xml" value="0.21145833333333333" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_timer.xml" value="0.2" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/activity_timer_broadcast.xml" value="0.2164855072463768" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/holiday_view.xml" value="0.25" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/themes.xml" value="0.20427350427350427" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/top_animation.xml" value="0.21875" />
+        <entry key="..\:/flutter development/BIOMETRIC_ATTENDANCE/app/src/main/res/layout/unavailable_view.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

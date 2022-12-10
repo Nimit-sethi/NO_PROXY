@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    tools:context=".MainActivity3">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MY ATTENDANCE"
+            android:id="@+id/myattendance"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+    <GridLayout
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+
+        android:layout_centerVertical="true">
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_rowWeight="1"
+            android:layout_column="0"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:layout_marginTop="15dp"
+            app:cardCornerRadius="25dp"
+            app:cardUseCompatPadding="true"
+            app:cardElevation="8dp">
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:background="@drawable/round"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:padding="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:textSize="20dp"
+
+                        android:textStyle="bold"
+                        android:text="🤨 \t\t Present "
+
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:textSize="20dp"
+                        android:textStyle="italic"
+                        android:text="5"
+
+                        />
+                </LinearLayout>
+                <LinearLayout
+
+                    android:padding="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        android:textAlignment="center"
+                        android:text="🔴 \t\t Absent "
+
+                        />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="center"
+                        android:textSize="20dp"
+                        android:textStyle="italic"
+                        android:text="3"
+
+                        />
+                </LinearLayout>
+
+
+
+
+
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_rowWeight="1"
+        android:layout_column="0"
+        android:layout_columnWeight="1"
+        android:layout_gravity="fill"
+
+        app:cardCornerRadius="25dp"
+        app:cardUseCompatPadding="true"
+        app:cardElevation="8dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:background="@drawable/round"
+
+        android:layout_height="wrap_content">
+
+        <org.naishadhparmar.zcustomcalendar.CustomCalendar
+            android:id="@+id/custom_calendar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:day_of_week_length="1"
+        app:day_of_week_start_from="sunday"
+        app:month_year_format="full_month__with_year"
+        app:row_height="50dp"
+        app:left_button_src="@drawable/ic_keyboard_arrow_left_black_24dp"
+        app:right_button_src="@drawable/ic_keyboard_arrow_right_black_24dp"
+        />
+    </LinearLayout>
+    </androidx.cardview.widget.CardView>
+    </GridLayout>
+</RelativeLayout>

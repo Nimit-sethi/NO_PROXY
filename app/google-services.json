@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298668073052",
+    "project_id": "imad-project-65c92",
+    "storage_bucket": "imad-project-65c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298668073052:android:c98fc9a48aad7759edc699",
+        "android_client_info": {
+          "package_name": "com.example.studentpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298668073052-qi8s1vkubeb9q2c2sqi9fukn5u9f7mqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentpage",
+            "certificate_hash": "dc705e8ebf3fcf24ff53a339fa3a681c5df28df1"
+          }
+        },
+        {
+          "client_id": "298668073052-an957f3i3lsknbaohbmvl5v25q5cut26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlVVuN01XmNtUE2WkPisPLb-N43k7Hno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298668073052-an957f3i3lsknbaohbmvl5v25q5cut26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

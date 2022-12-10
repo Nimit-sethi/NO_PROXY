@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoProxy</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="MAPS_API_KEY">AIzaSyCI5nv4V5allfW99GLn_8cbqWAd-J7gmUA</string>
+</resources>
